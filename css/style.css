@@ -1,0 +1,34 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.text {
+	color: rgb(66, 7, 121);
+
+}
+
+.misto {
+	color: green;
+}
+
+div.misto {
+	color: yellow;
+}
+
+.skeli,
+.pechera,
+.vershina {
+	color: rgb(90, 6, 6);
+}
+
+.blog {
+	color: rgb(69, 69, 158);
+}
+
+#top {
+	font-family: "Schwabacher";
+}
+
+.blog {
+	font-family: "AnastasiaScript";
+}
